@@ -73,7 +73,7 @@ Loan Status
 
 Insights
 Loan Amount Growth
-The loan amount is increasing steadily. By focusing on acquiring more customers annually, the bank can achieve even faster growth.
+The loan amount is increasing in a good rate,if bank focus on increasing number of customers every year, then it will grow more rapidly.
 
 
 Revolving Balance by Grade
